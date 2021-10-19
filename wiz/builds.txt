@@ -16,7 +16,7 @@ adult="no"
 info="http://"
 description="test"
 
-name="DrewzyMod v1 - test"
+name="DrewzyMod v1 - Drewzy"
 version="1.0"
 url=*https://www.dropbox.com/s/81tiqnyovgolcmc/DrewzyMod.zip?dl=1*
 minor="http://"

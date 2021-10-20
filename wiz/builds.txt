@@ -1,4 +1,4 @@
-id="plugin.program.drewzywiz"
+id="plugin.program.openwizard"
 version="1.0"
 zip="http://drewzyhd.github.io/wiz/plugin.program.drewzywiz.zip"
 
